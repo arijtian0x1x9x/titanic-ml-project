@@ -1,4 +1,5 @@
 # 🛳️ Titanic – Machine Learning from Disaster  
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ### Survival Prediction using Ensemble Learning & Cross-Validation  
 **Author:** *Arijit Kumar Bera*
 
