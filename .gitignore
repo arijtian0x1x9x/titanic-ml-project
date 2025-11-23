@@ -1,0 +1,48 @@
+
+# ----------------------
+# Python Cache Files
+# ----------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# ----------------------
+# Virtual Environments
+# ----------------------
+venv/
+.env/
+
+# ----------------------
+# Jupyter Notebook Stuff
+# ----------------------
+.ipynb_checkpoints/
+
+# ----------------------
+# Model Files
+# ----------------------
+models/*.joblib
+models_oof/*.joblib
+
+# ----------------------
+# OS Files
+# ----------------------
+.DS_Store
+
+# ----------------------
+# Editor Configurations
+# ----------------------
+.vscode/
+.idea/
+
+# ----------------------
+# Reports (optional)
+# ----------------------
+*.pdf
+
+# ----------------------
+# Data files (optional)
+# Remove this section if you want CSVs on GitHub
+# ----------------------
+data/*.csv
