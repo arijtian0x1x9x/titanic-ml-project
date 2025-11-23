@@ -1,5 +1,13 @@
 # 🛳️ Titanic – Machine Learning from Disaster  
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+![Python](https://img.shields.io/badge/Python-3.9%2B-yellow.svg)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.3%2B-orange.svg)
+![Pandas](https://img.shields.io/badge/Pandas-2.x-blue.svg)
+![NumPy](https://img.shields.io/badge/NumPy-1.x-blue.svg)
+![Status](https://img.shields.io/badge/Project-Active-brightgreen.svg)
+
+![Stars](https://img.shields.io/github/stars/arijtian0x1x9x/titanic-ml-project.svg?style=social&label=Star)
+![Forks](https://img.shields.io/github/forks/arijtian0x1x9x/titanic-ml-project.svg?style=social&label=Fork)
 ### Survival Prediction using Ensemble Learning & Cross-Validation  
 **Author:** *Arijit Kumar Bera*
 
